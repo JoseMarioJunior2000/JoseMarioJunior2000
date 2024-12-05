@@ -1,6 +1,6 @@
 ## Olá! Eu sou o José Mário Junior 2000 👋
 
-- Hoje aprimoro minhas habilidades como desenvolvedor desenvolvedor full stack
+- Hoje aprimoro minhas habilidades como desenvolvedor full stack
 - Estudando C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMarioJunior2000&show_icons=true&theme=transparent)
