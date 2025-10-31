@@ -53,10 +53,6 @@ Meu objetivo é unir **automação, IA e desenvolvimento web** para criar aplica
 
 ## 🌟 Projetos em Destaque
 
-<a href="https://github.com/JoseMarioJunior2000/Agent-Agno-LangFuse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMarioJunior2000&repo=Agent-Agno-LangFuse&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/JoseMarioJunior2000/App_Streamlit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseMarioJunior2000&repo=App_Streamlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
